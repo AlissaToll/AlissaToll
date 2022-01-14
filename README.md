@@ -9,6 +9,13 @@
 - 💬 Ask me about **HTML , CSS, JavaScript**
 
 - ⚡ Fun fact: **I love cooking any delicious food**
+
+<div align="center">
+  <a href="https://github.com/AlissaToll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissaToll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissaToll&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
     <a href="https://www.w3.org/html/" target="_blank"> 
